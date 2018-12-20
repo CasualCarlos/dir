@@ -77,10 +77,6 @@ article > p > a:hover {
     color: black;
 }
 
-article > iframe{
-  align-items: center;
-}
-
 #bigimage > p{
   color: #00c9fd;
   background-color: #ffffff;
@@ -105,10 +101,12 @@ article > h1{
 }
 
 footer{
-  background-color: #00c9fd;
+  background-color: #cccccc;
 }
 
 footer > p {
-  color: white;
+  color: black;
+  font-size: 12px;
   height: 150px;
+  float: right;
 }
